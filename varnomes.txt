@@ -1,0 +1,22 @@
+championlevel
+championame
+deaths
+gold earned
+individualposition
+item1
+item2
+item3
+item4
+item5
+item6
+kills
+puuid
+totaldamagedealttochampions
+totaldamagetaken
+visionscore
+win
+assists
+teamId
+gameDuration
+gameVersion
+totalMinionsKilled
